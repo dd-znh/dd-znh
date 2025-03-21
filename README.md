@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Eduardo Achar! 
 
-<!--
-**dd-znh/dd-znh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student at UFSC, passionate about technology and innovation.  
+💻 I mainly work with **Python** and **C++**.  
+🔐 My main interests include **Blockchain**, **Security**, and **Development**.  
+🚀 Currently working on **ESH** and **Dapskin** projects.  
+💼 Working as a **Systems Analyst at Aquinpel**.
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dd-znh&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dd-znh&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dd-znh&show_icons=true" />
+</picture>
+
+
+---
+
+Thanks for visiting! 🚀
