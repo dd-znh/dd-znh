@@ -3,7 +3,6 @@
 🎓 I'm a Computer Science student at UFSC, passionate about technology and innovation.  
 💻 I mainly work with **Python** and **C++**.  
 🔐 My main interests include **Blockchain**, **Security**, and **Development**.  
-🚀 Currently working on **ESH** and **Dapskin** projects.  
 💼 Working as a **Systems Analyst at Aquinpel**.
 
 ## GitHub Stats
